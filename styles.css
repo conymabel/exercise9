@@ -1,0 +1,17 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    padding-top: 70px;
+}
+
+.placeholder-img {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.hero-img {
+    height: 600px;
+}
